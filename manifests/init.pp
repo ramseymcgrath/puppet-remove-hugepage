@@ -4,8 +4,6 @@
 #
 class remove_hugepage {
 
-  include augeas
-
   augeas { 'grub.conf/no_khugepaged':
       incl    => '/etc/grub.conf',
       lens    => 'grub.lns',
