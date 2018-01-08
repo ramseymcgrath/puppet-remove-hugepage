@@ -1,3 +1,3 @@
 # puppet-remove-hugepage
 
-Removes Hugepage
+Removes Hugepage on Redhat and CentOS machines
