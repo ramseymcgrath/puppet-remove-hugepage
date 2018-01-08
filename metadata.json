@@ -1,0 +1,13 @@
+{
+  "name": "ramseymcgrath-remove_hugepage",
+  "version": "0.1.4",
+  "author": "Ramsey McGrath",
+  "summary": "Disables Huge Page on Redhat/Centos Machines",
+  "license": "Beerware",
+  "source": "https://github.com/ramseymcgrath/puppet-remove-hugepage",
+  "project_page": "https://github.com/ramseymcgrath/puppet-remove-hugepage",
+  "issues_url": "https://github.com/ramseymcgrath/puppet-remove-hugepage/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
